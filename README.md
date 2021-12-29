@@ -7,7 +7,7 @@ Creates the image of two eyes and causes both eyeballs to move within the eye in
     grid-template-rows: 1fr;
   }
 </style>
-<main class="content>
+<main class="content">
   <div>
     <img src="oneeye.png" alt="One Eye" width='150'>
   </div>
