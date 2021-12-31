@@ -5,4 +5,4 @@ the mouse around the page and watch the eyeballs move.
 <img src="oneeye.png" alt="One Eye" width='150'>
 <img src="oneeye.png" alt="One Eye" width='150'>
 <br>
-<a href="https://ronmintz.github.io/">Return to main page</a>
+<a href="https://ronmintz.github.io/">Return to home page</a>
