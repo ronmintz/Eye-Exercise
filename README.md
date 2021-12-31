@@ -6,3 +6,5 @@ the mouse around the page and watch the eyeballs move.
 <img src="oneeye.png" alt="One Eye" width='150'>
 <br>
 <a href="https://ronmintz.github.io/">Return to home page</a>
+<br>
+<a href="https://ronmintz.github.io/projects.html">Return to projects page</a>
