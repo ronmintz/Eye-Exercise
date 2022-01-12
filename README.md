@@ -1,4 +1,4 @@
-# Eye-Exercise
+# Eye Movement Exercise
 Creates the image of two eyes and causes both eyeballs to move within the eye in sync with movement of the mouse.  Just move
 the mouse around the page and watch the eyeballs move.
 
