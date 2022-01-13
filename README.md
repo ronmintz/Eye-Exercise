@@ -1,5 +1,6 @@
 # Eye Movement Exercise
-Creates the image of two eyes and causes both eyeballs to move within the eye in sync with movement of the mouse.  Just move
+Creates the image of two eyes and causes both eyeballs to move within the eye in sync with movement of the mouse.  To run this
+project, clone this repository to a PC and double-click on the icon for index.html in the File Explorer. Then move
 the mouse around the page and watch the eyeballs move.
 
 Possible future improvements include adding a button which when pressed, toggles opening and closing of eyes.  Another button
