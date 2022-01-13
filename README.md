@@ -9,10 +9,6 @@ could control dilation of pupil, which is often done for eye examinations.
 <img src="oneeye.png" alt="One Eye" width='150'>
 <img src="oneeye.png" alt="One Eye" width='150'>
 <br>
-<a href="https://ronmintz.github.io/">Return to home page</a>
-<br>
-<a href="https://ronmintz.github.io/projects.html">Return to projects page</a>
-
 MIT License
 
 Copyright (c) 2022 Ronald Mintz
@@ -34,3 +30,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+<a href="https://ronmintz.github.io/">Return to home page</a>
+<br>
+<a href="https://ronmintz.github.io/projects.html">Return to projects page</a>
